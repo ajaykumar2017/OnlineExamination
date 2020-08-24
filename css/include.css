@@ -1,3 +1,16 @@
-.font-color-white {
-    color: white;
+.social-icons {
+    display: flex;
+    list-style: none;
+    width: 100%;
+}
+
+.social-icons li a {
+    padding: 10px;
+    color: #fff;
+    font-size: 25px;
+    cursor: pointer;
+    color: blue;
+    margin-right: 10px;
+    position: relative;
+    line-height: 70px;
 }
